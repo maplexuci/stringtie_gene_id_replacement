@@ -1,4 +1,4 @@
-# replace_stringtie_merge_geneid_with_locus_name
+# stringtie_gene_id_replacement
 The python script `stringtieGeneIdReplace` replaces the default `StringTie Merge` `gene_id` with the gene locus name.
 
 The RNA-seq analysis software `StringTie` is commonly used for transcriptome assembly. And the `merge` function is used to generate a combined transcripts that appears accross all samples. 
